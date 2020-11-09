@@ -2,6 +2,9 @@
 
 You know how sometimes you type English and it has all these letters and words and no emoji? Yeah, emoji-translate fixes that.
 
+## Sample demo
+![omg emoji](https://cloud.githubusercontent.com/assets/1369170/8635052/e333474e-27c7-11e5-8af8-5b0bc2281095.gif)
+
 
 ## As a library
 You can also use this as a standalone library for your own translation purposes.
